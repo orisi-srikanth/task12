@@ -3,5 +3,4 @@ document.querySelector("button").addEventListener("click", () => {
         behavior: "smooth"
     });
 });
-
 console.log("CloudNova Website Loaded");
